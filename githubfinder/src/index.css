@@ -1,0 +1,46 @@
+.contain{
+    height: 100vh
+}
+
+.btn{
+    border:none;
+}
+
+.home:hover {
+    background: gray;
+    border-radius: 10px;
+    border:none;
+    
+}
+.about:hover {
+    background: gray;
+    border-radius: 10px;
+    border:none;
+}
+a{
+    text-decoration: none;
+    color: black
+}
+.spinner{
+    width: 100%;
+    text-align: center;
+}
+
+.user-img{
+    width: 40px;
+}
+/* .user-info{
+    display: flex;
+    justify-content: space-between;
+} */
+.clear-btn:hover {
+ color: gray;
+ background-color:rgb(54, 42, 42) ;
+}
+
+.name-h2{
+    font-size:large;
+}
+.bio{
+    font-size: smaller;
+}
